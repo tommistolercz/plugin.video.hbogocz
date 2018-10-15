@@ -1,0 +1,175 @@
+# Kodi Media Center language file
+# Addon Name: HBO GO CZ
+# Addon id: plugin.video.hbogocz
+# Addon Provider: TomMistolerCZ
+msgid ""
+msgstr ""
+"Project-Id-Version: KODI Addons\n"
+"Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (United Kingdom) (http://www.transifex.com/projects/p/kodi-main/language/en_GB/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_GB\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Operator
+
+msgctxt "#32000"
+msgid "Select your telecom operator"
+msgstr ""
+
+msgctxt "#32001"
+msgid "nc+"
+msgstr ""
+
+msgctxt "#32002"
+msgid "Plus"
+msgstr ""
+
+msgctxt "#32003"
+msgid "UPC"
+msgstr ""
+
+msgctxt "#32004"
+msgid "Vectra"
+msgstr ""
+
+msgctxt "#32005"
+msgid "PLAY"
+msgstr ""
+
+msgctxt "#32006"
+msgid "Multimedia Polska"
+msgstr ""
+
+msgctxt "#32007"
+msgid "Netia"
+msgstr ""
+
+msgctxt "#32008"
+msgid "Orange"
+msgstr ""
+
+msgctxt "#32009"
+msgid "INEA"
+msgstr ""
+
+msgctxt "#32010"
+msgid "TOYA"
+msgstr ""
+
+msgctxt "#32011"
+msgid "JAMBOX"
+msgstr ""
+
+msgctxt "#32012"
+msgid "PROMAX"
+msgstr ""
+
+msgctxt "#32013"
+msgid "Asta-Net"
+msgstr ""
+
+msgctxt "#32014"
+msgid "TK Chopin"
+msgstr ""
+
+msgctxt "#32015"
+msgid "ELSAT"
+msgstr ""
+
+msgctxt "#32016"
+msgid "Eltronik"
+msgstr ""
+
+msgctxt "#32017"
+msgid "SatFilm"
+msgstr ""
+
+msgctxt "#32018"
+msgid "Master"
+msgstr ""
+
+msgctxt "#32019"
+msgid "STANSAT"
+msgstr ""
+
+msgctxt "#32020"
+msgid "Dialog"
+msgstr ""
+
+msgctxt "#32021"
+msgid "Internetia"
+msgstr ""
+
+msgctxt "#32022"
+msgid "Petrotel"
+msgstr ""
+
+msgctxt "#32023"
+msgid "Cinema City – promocja"
+msgstr ""
+
+msgctxt "#32024"
+msgid "Samsung - promocja"
+msgstr ""
+
+msgctxt "#32025"
+msgid "Player+"
+msgstr ""
+
+msgctxt "#32026"
+msgid "HBO GO Vip/Club Poland"
+msgstr ""
+
+msgctxt "#32027"
+msgid "HBO Polska"
+msgstr ""
+
+# Account
+
+msgctxt "#32040"
+msgid "Account"
+msgstr ""
+
+msgctxt "#32041"
+msgid "Operator"
+msgstr ""
+
+msgctxt "#32042"
+msgid "Username"
+msgstr ""
+
+msgctxt "#32043"
+msgid "Password"
+msgstr ""
+
+# Subtitles
+
+msgctxt "#32030"
+msgid "Subtitles"
+msgstr ""
+
+msgctxt "#32031"
+msgid "Activate subtitles loading by this addon"
+msgstr ""
+
+msgctxt "#32032"
+msgid "Language"
+msgstr ""
+
+msgctxt "#32033"
+msgid "Select subtitles language"
+msgstr ""
+
+msgctxt "#32034"
+msgid "Polish"
+msgstr ""
+
+msgctxt "#32035"
+msgid "English"
+msgstr ""
